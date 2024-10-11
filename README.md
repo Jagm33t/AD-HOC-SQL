@@ -15,3 +15,20 @@ Welcome to my SQL Queries Project repository! This project demonstrates my abili
 - **Gross Sales Report**: Analyze gross sales amount for a specific customer across months.
 - **Quarterly Sales Analysis**: Identify the quarter in 2020 with the maximum total sold quantity.
 - **Sales Channel Analysis**: Determine which sales channel contributed the most to gross sales in 2021 and its percentage contribution.
+
+
+## Running the SQL Queries
+
+To run the SQL queries provided in this project, follow these steps:
+
+1. **Connect to the Database**: 
+   - Ensure you have access to the database where the relevant tables are located (e.g., `dim_customer`, `sales`, and `products`).
+
+2. **Open SQL Client**:
+   - Use MySQL Workbench, command line, or any other SQL client you prefer.
+
+3. **Load Queries**:
+   - You can copy and paste the individual queries from this repository or load the `reportalluniqueprod.sql` file directly if available.
+
+4. **Execute Each Query**:
+   - Select the query you wish to run and execute it. Make sure to run queries one at a time to observe the results and understand the insights derived from each query.
